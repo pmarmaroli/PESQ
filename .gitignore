@@ -129,3 +129,6 @@ dmypy.json
 # vIM buffer files
 *.swp
 *.swo
+
+# Local test outputs (not for version control)
+tests/outputs/
